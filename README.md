@@ -272,3 +272,5 @@ For issues and questions:
 - [ ] API endpoints for integration with other tools
 - [ ] Docker containerization
 - [ ] Authentication and user management
+
+**Built with Cursor Agent**
